@@ -50,5 +50,3 @@ def run_bot():
 
 if __name__ == "__main__":
     run_bot()
-Commit new file
-[ Message (obligatoire) ] → Ajout du fichier principal du bot
